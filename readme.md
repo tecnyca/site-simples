@@ -1,3 +1,2 @@
-Site criado durante o curso
-## 'Crie um Site Simples Usando HTML, CSS e JAVASCRIPT'
-# da Fundação Bradesco.
+# site-simples
+Repositório para upload do projeto realizado durante o curso 'Crie um Site Simples Usando Html, Css e JavaScript' da plataforma 'Fundação Bradesco'.
